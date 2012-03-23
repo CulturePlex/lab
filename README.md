@@ -1,9 +1,9 @@
-#CulturePlex Guidelines
+# CulturePlex Guidelines
 Best practices to help CulturePlex developers
 
-##Index
+## Index
 
-* ####[Quality guidelines](#quality-guidelines)
+* ### [Quality guidelines](#quality-guidelines)
     * [Basic principles](#basic-principles)
     * [Specific guidelines](#specific-guidelines)
         * [Python](#python)
@@ -11,6 +11,6 @@ Best practices to help CulturePlex developers
         * [CSS](#css)
         * [Javascript](#javascript)
 
-* ####[Technical guidelines](#technical-guidelines)
+* ### [Technical guidelines](#technical-guidelines)
     * [Editor/IDE](#editor)
     * [Git](#git)
